@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/6dd3cf6b-c2d6-414e-91a7-ca9a86d46b04)
 
 
-## 仅限代理ChatGPT (港澳)
+## 仅限代理ChatGPT、Claude (港澳)
 
 规则地址：<https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf>
 
