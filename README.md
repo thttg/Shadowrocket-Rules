@@ -4,25 +4,31 @@
 
 除了GFW以外，都直连。
 
-规则地址：<https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/gfw_only.conf>
+* GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/gfw_only.conf
+![image](https://github.com/user-attachments/assets/d5576292-668a-4518-a30a-0d8d94f0f8fa)
 
-![image](https://github.com/user-attachments/assets/e2f80128-c585-464d-aef6-2cb248b2a96b)
+* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+![image](https://github.com/user-attachments/assets/19a43622-a717-4809-ac15-ec9327f871fe)
 
 
 ## 白名单 + 广告过滤
 
 除了中国的域名和IP以外，都走代理。
 
-规则地址：<https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/non_cn.conf>
+* GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/non_cn.conf
+![image](https://github.com/user-attachments/assets/b38ff651-361a-4143-800b-02e0e03f752a)
 
-![image](https://github.com/user-attachments/assets/6dd3cf6b-c2d6-414e-91a7-ca9a86d46b04)
+* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+![image](https://github.com/user-attachments/assets/2f7ad8de-de1a-4efc-91c7-474883397253)
 
 
 ## 仅限代理ChatGPT、Claude (港澳)
 
-规则地址：<https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf>
+* GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
+![image](https://github.com/user-attachments/assets/3ac206be-1e6f-4abe-894c-61aaa104fed5)
 
-![image](https://github.com/user-attachments/assets/527d371a-a69a-44f8-a2f3-f1d00793ce90)
+* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+![image](https://github.com/user-attachments/assets/ae198cab-6635-4cf2-8370-52d9de1c063a)
 
 
 ### 本项目引用：  
