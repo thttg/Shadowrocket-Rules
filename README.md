@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/2f7ad8de-de1a-4efc-91c7-474883397253)
 
 
-## 仅限代理ChatGPT、Claude (港澳)
+## 仅限代理AI (ChatGPT、Claude、Gemini)
 
 * GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
 ![image](https://github.com/user-attachments/assets/3ac206be-1e6f-4abe-894c-61aaa104fed5)
