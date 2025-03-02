@@ -5,11 +5,13 @@
 除了GFW以外，都直连。
 
 * GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/gfw_only.conf
-![image](https://github.com/user-attachments/assets/d5576292-668a-4518-a30a-0d8d94f0f8fa)
+![image](https://github.com/user-attachments/assets/2cdf5aa3-fcc2-456f-b31c-8509650bff8e)
 
-* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
-* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
-![image](https://github.com/user-attachments/assets/19a43622-a717-4809-ac15-ec9327f871fe)
+* jsDelivr (Fastly): https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+![image](https://github.com/user-attachments/assets/c6041546-a3d1-40e6-8f39-6e65d64f364f)
+
+* jsDelivr (Bunny): https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+![image](https://github.com/user-attachments/assets/d2b55d9d-98db-43df-b15f-fb793c8c0554)
 
 
 ## 白名单 + 广告过滤
@@ -17,21 +19,25 @@
 除了中国的域名和IP以外，都走代理。
 
 * GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/non_cn.conf
-![image](https://github.com/user-attachments/assets/b38ff651-361a-4143-800b-02e0e03f752a)
+![image](https://github.com/user-attachments/assets/1498cda8-05a8-491d-9587-08c0c12064b7)
 
-* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
-* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@master/non_cn.conf
-![image](https://github.com/user-attachments/assets/2f7ad8de-de1a-4efc-91c7-474883397253)
+* jsDelivr (Fastly): https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@master/non_cn.conf
+![image](https://github.com/user-attachments/assets/7328af4a-5c48-481c-951d-f9833c75c557)
+
+* jsDelivr (Bunny): https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+![image](https://github.com/user-attachments/assets/47b97223-2243-4a7e-a991-e77d3e532bf6)
 
 
 ## 仅限代理AI (ChatGPT、Claude、Gemini)
 
 * GitHub: https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
-![image](https://github.com/user-attachments/assets/3ac206be-1e6f-4abe-894c-61aaa104fed5)
+![image](https://github.com/user-attachments/assets/cd0cad8e-cebd-4d12-a93e-2d93f485ec5a)
 
-* jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-![image](https://github.com/user-attachments/assets/ae198cab-6635-4cf2-8370-52d9de1c063a)
+* jsDelivr (Fastly): https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+![image](https://github.com/user-attachments/assets/b12dca40-cadc-46b6-afe6-fda571860952)
+
+* jsDelivr (Bunny): https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+![image](https://github.com/user-attachments/assets/e6863060-4e59-4a1d-bacc-baee3bf0d59d)
 
 
 ### 本项目引用：  
