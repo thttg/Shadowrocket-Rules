@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/d5576292-668a-4518-a30a-0d8d94f0f8fa)
 
 * jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
-* https://cdn.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
 ![image](https://github.com/user-attachments/assets/19a43622-a717-4809-ac15-ec9327f871fe)
 
 
@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/b38ff651-361a-4143-800b-02e0e03f752a)
 
 * jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
-* https://cdn.jsdelivr.net/gh/thttg/Shadowrocket-Rules@master/non_cn.conf
+* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@master/non_cn.conf
 ![image](https://github.com/user-attachments/assets/2f7ad8de-de1a-4efc-91c7-474883397253)
 
 
@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/3ac206be-1e6f-4abe-894c-61aaa104fed5)
 
 * jsDelivr: https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-* https://cdn.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+* https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
 ![image](https://github.com/user-attachments/assets/ae198cab-6635-4cf2-8370-52d9de1c063a)
 
 
