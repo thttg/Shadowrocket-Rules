@@ -6,15 +6,19 @@
 
 * GitHub
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/gfw_only.conf
-<br/>![image](https://github.com/user-attachments/assets/2cdf5aa3-fcc2-456f-b31c-8509650bff8e)
+<br/>![image](https://github.com/user-attachments/assets/40bd92cc-73ab-47c0-8ee7-b3691b0c36b4)
 
-* jsDelivr (Fastly)
+* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
-<br/>![image](https://github.com/user-attachments/assets/c6041546-a3d1-40e6-8f39-6e65d64f364f)
+<br/>![image](https://github.com/user-attachments/assets/201b70b9-ee91-4a9e-ae23-83c95f74aabb)
+
+* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+  - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+<br/>![image](https://github.com/user-attachments/assets/c26eb692-c129-4477-8507-765470a9b724)
 
 * jsDelivr (Bunny)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
-<br/>![image](https://github.com/user-attachments/assets/d2b55d9d-98db-43df-b15f-fb793c8c0554)
+<br/>![image](https://github.com/user-attachments/assets/a60e2922-9fbc-41b5-9022-6f5817465e54)
 
 
 ## 白名单 + 广告过滤
@@ -23,30 +27,38 @@
 
 * GitHub
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/non_cn.conf
-<br/>![image](https://github.com/user-attachments/assets/1498cda8-05a8-491d-9587-08c0c12064b7)
+<br/>![image](https://github.com/user-attachments/assets/d3aadd8b-9c83-4d3e-9f18-8d6257698dcf)
 
-* jsDelivr (Fastly)
+* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
-<br/>![image](https://github.com/user-attachments/assets/7328af4a-5c48-481c-951d-f9833c75c557)
+<br/>![image](https://github.com/user-attachments/assets/7ba6e6b9-f607-4ae8-8227-466ea1c950b6)
+
+* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+  - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+<br/>![image](https://github.com/user-attachments/assets/bef14489-7f16-4874-9729-8fe6192882c0)
 
 * jsDelivr (Bunny)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
-<br/>![image](https://github.com/user-attachments/assets/47b97223-2243-4a7e-a991-e77d3e532bf6)
+<br/>![image](https://github.com/user-attachments/assets/dd56ca17-34df-444b-9626-457351652eae)
 
 
 ## 仅限代理AI (ChatGPT、Claude、Gemini)
 
 * GitHub
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
-<br/>![image](https://github.com/user-attachments/assets/cd0cad8e-cebd-4d12-a93e-2d93f485ec5a)
+<br/>![image](https://github.com/user-attachments/assets/12ce7393-4c76-4507-ab32-0010695cdd6c)
 
-* jsDelivr (Fastly)
+* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-<br/>![image](https://github.com/user-attachments/assets/b12dca40-cadc-46b6-afe6-fda571860952)
+<br/>![image](https://github.com/user-attachments/assets/f1e36867-3398-4060-8a19-e91c9a63bc23)
+
+* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+  - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+<br/>![image](https://github.com/user-attachments/assets/128272f6-ab3f-4d77-b0f5-38c3cd2ff516)
 
 * jsDelivr (Bunny)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-<br/>![image](https://github.com/user-attachments/assets/e6863060-4e59-4a1d-bacc-baee3bf0d59d)
+<br/>![image](https://github.com/user-attachments/assets/fb177f1d-fc3e-4851-9722-bb8982e681bd)
 
 ## GeoLite2
 * Country国家数据库
