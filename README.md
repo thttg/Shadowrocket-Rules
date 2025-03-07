@@ -26,7 +26,7 @@
 <br/>![image](https://github.com/user-attachments/assets/1498cda8-05a8-491d-9587-08c0c12064b7)
 
 * jsDelivr (Fastly)
-  - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@master/non_cn.conf
+  - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
 <br/>![image](https://github.com/user-attachments/assets/7328af4a-5c48-481c-951d-f9833c75c557)
 
 * jsDelivr (Bunny)
