@@ -42,7 +42,7 @@
 <br/>![image](https://github.com/user-attachments/assets/dd56ca17-34df-444b-9626-457351652eae)
 
 
-## 仅限代理AI (ChatGPT、Claude、Gemini)
+## 仅限代理AI (ChatGPT、Claude、Gemini、grok/x.ai)
 
 * GitHub
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
