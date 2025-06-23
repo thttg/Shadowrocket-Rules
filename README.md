@@ -1,6 +1,6 @@
 # Shadowrocket个人用规则
 
-## 黑名单 + 广告过滤
+## 黑名单
 
 除了GFW以外，都直连。
 
@@ -21,7 +21,7 @@
 <br/>![image](https://github.com/user-attachments/assets/a60e2922-9fbc-41b5-9022-6f5817465e54)
 
 
-## 白名单 + 广告过滤
+## 白名单
 
 除了中国的域名和IP以外，都走代理。
 
