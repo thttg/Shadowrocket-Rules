@@ -61,12 +61,16 @@
 <br/>![image](https://github.com/user-attachments/assets/fb177f1d-fc3e-4851-9722-bb8982e681bd)
 
 ## GeoLite2
-* Country国家数据库
+* Country国家数据库 (Fastly)
   - https://fastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
+* Country国家数据库 (Cloudflare)
+  - https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
 
-* ASN数据库
+* ASN数据库 (Fastly)
   - https://fastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
-
+* ASN数据库 (Cloudflare)
+  - https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
+  - 
 ### 本项目引用：  
 [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
 [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)
