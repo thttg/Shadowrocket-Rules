@@ -8,15 +8,18 @@
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/gfw_only.conf
 <br/>![image](https://github.com/user-attachments/assets/40bd92cc-73ab-47c0-8ee7-b3691b0c36b4)
 
-* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
+* jsDelivr (**Fastly**)
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+  - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+  - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
 <br/>![image](https://github.com/user-attachments/assets/201b70b9-ee91-4a9e-ae23-83c95f74aabb)
 
-* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+* jsDelivr (**Cloudflare**)
   - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
+  - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
 <br/>![image](https://github.com/user-attachments/assets/c26eb692-c129-4477-8507-765470a9b724)
 
-* jsDelivr (Bunny)
+* jsDelivr (**Bunny**)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/gfw_only.conf
 <br/>![image](https://github.com/user-attachments/assets/a60e2922-9fbc-41b5-9022-6f5817465e54)
 
@@ -29,15 +32,18 @@
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/non_cn.conf
 <br/>![image](https://github.com/user-attachments/assets/d3aadd8b-9c83-4d3e-9f18-8d6257698dcf)
 
-* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
+* jsDelivr (**Fastly**)
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+  - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+  - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
 <br/>![image](https://github.com/user-attachments/assets/7ba6e6b9-f607-4ae8-8227-466ea1c950b6)
 
-* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+* jsDelivr (**Cloudflare**)
   - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
+  - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
 <br/>![image](https://github.com/user-attachments/assets/bef14489-7f16-4874-9729-8fe6192882c0)
 
-* jsDelivr (Bunny)
+* jsDelivr (**Bunny**)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/non_cn.conf
 <br/>![image](https://github.com/user-attachments/assets/dd56ca17-34df-444b-9626-457351652eae)
 
@@ -48,33 +54,54 @@
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
 <br/>![image](https://github.com/user-attachments/assets/12ce7393-4c76-4507-ab32-0010695cdd6c)
 
-* jsDelivr (Fastly)	***[fastly / originfastly / quantil]***
+* jsDelivr (**Fastly**)
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
 <br/>![image](https://github.com/user-attachments/assets/f1e36867-3398-4060-8a19-e91c9a63bc23)
 
-* jsDelivr (Cloudflare)	***[testingcf / gcore]***
+* jsDelivr (**Cloudflare**)
   - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
 <br/>![image](https://github.com/user-attachments/assets/128272f6-ab3f-4d77-b0f5-38c3cd2ff516)
 
-* jsDelivr (Bunny)
+* jsDelivr (**Bunny**)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
 <br/>![image](https://github.com/user-attachments/assets/fb177f1d-fc3e-4851-9722-bb8982e681bd)
 
 ## GeoLite2
-* Country国家数据库 - 传统版 GeoIP，只包含国家/地区类别 (Fastly)
+### Country国家数据库 - 传统版 GeoIP，只包含国家类别
+* Fastly 
   - https://fastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
-* Country国家数据库 - 传统版 GeoIP，只包含国家/地区类别 (Cloudflare)
+  - https://originfastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
+  - https://quantil.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
+* Cloudflare
   - https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
+  - https://gcore.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
+* Bunny
+  - https://jsdelivr.b-cdn.net/gh/Loyalsoldier/geoip@release/Country-without-asn.mmdb
 
-* Country国家数据库 - 精简版 GeoIP，只包含 `GEOIP,CN` 和 `GEOIP,PRIVATE` (Fastly)
+### Country国家数据库 - 精简版 GeoIP，只包含 `GEOIP,CN` 和 `GEOIP,PRIVATE`
+* Fastly
   - https://fastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
-* Country国家数据库 - 精简版 GeoIP，只包含 `GEOIP,CN` 和 `GEOIP,PRIVATE` (Cloudflare)
+  - https://originfastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
+  - https://quantil.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
+* Cloudflare
   - https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
+  - https://gcore.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
+* Bunny
+  - https://jsdelivr.b-cdn.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb
 
-* ASN数据库 (Fastly)
+### ASN数据库
+* Fastly
   - https://fastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
-* ASN数据库 (Cloudflare)
+  - https://originfastly.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
+  - https://quantil.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
+* Cloudflare
   - https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
+  - https://gcore.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
+* Bunny
+  - https://jsdelivr.b-cdn.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb
 
 ### 本项目引用：  
 [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
