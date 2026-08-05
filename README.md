@@ -48,25 +48,25 @@
 <br/>![image](https://github.com/user-attachments/assets/dd56ca17-34df-444b-9626-457351652eae)
 
 
-## 仅限代理AI (ChatGPT、Claude、Gemini、grok/x.ai)
+## 港澳使用 AI 代理 (ChatGPT、Claude、Gemini、grok/x.ai)
 
 * GitHub
-  - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/chatgpt.conf
+  - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/hkmo_ai.conf
 <br/>![image](https://github.com/user-attachments/assets/12ce7393-4c76-4507-ab32-0010695cdd6c)
 
 * jsDelivr (**Fastly**)
-  - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-  - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-  - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
+  - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
+  - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
 <br/>![image](https://github.com/user-attachments/assets/f1e36867-3398-4060-8a19-e91c9a63bc23)
 
 * jsDelivr (**Cloudflare**)
-  - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
-  - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
+  - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
 <br/>![image](https://github.com/user-attachments/assets/128272f6-ab3f-4d77-b0f5-38c3cd2ff516)
 
 * jsDelivr (**Bunny**)
-  - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/chatgpt.conf
+  - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
 <br/>![image](https://github.com/user-attachments/assets/fb177f1d-fc3e-4851-9722-bb8982e681bd)
 
 ## GeoLite2
