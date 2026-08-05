@@ -52,22 +52,23 @@
 
 * GitHub
   - https://raw.githubusercontent.com/thttg/Shadowrocket-Rules/refs/heads/main/hkmo_ai.conf
-<br/>![image](https://github.com/user-attachments/assets/12ce7393-4c76-4507-ab32-0010695cdd6c)
+<br/><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/28d3090d-2479-414e-a820-d59785393438" />
+
 
 * jsDelivr (**Fastly**)
   - https://fastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
   - https://originfastly.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
   - https://quantil.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
-<br/>![image](https://github.com/user-attachments/assets/f1e36867-3398-4060-8a19-e91c9a63bc23)
+<br/><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b25b1c13-9baf-4942-9962-c7ca3bcc09d3" />
 
 * jsDelivr (**Cloudflare**)
   - https://testingcf.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
   - https://gcore.jsdelivr.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
-<br/>![image](https://github.com/user-attachments/assets/128272f6-ab3f-4d77-b0f5-38c3cd2ff516)
+<br/><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/09e57e41-d4fe-4c3b-b792-02aa2572e137" />
 
 * jsDelivr (**Bunny**)
   - https://jsdelivr.b-cdn.net/gh/thttg/Shadowrocket-Rules@main/hkmo_ai.conf
-<br/>![image](https://github.com/user-attachments/assets/fb177f1d-fc3e-4851-9722-bb8982e681bd)
+<br/><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8b79d115-bf45-433a-a0b7-949258dd5a46" />
 
 ## GeoLite2
 ### Country国家数据库 - 传统版 GeoIP，只包含国家类别
